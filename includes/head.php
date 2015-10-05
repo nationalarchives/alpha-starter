@@ -6,6 +6,8 @@
     <title>Home - The National Archives</title>
 
     <link rel="stylesheet" type="text/css" href="http://www.nationalarchives.gov.uk/wp-content/themes/tna/css/base-sass.css.min">
+    <link rel="stylesheet" href="/styles/prototype-overrides.css">
+    <link rel="stylesheet" href="/styles/prototype-styles.css">
     <link href='http://fonts.googleapis.com/css?family=Bitter' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
     <link rel="shortcut icon" type="image/vnd.microsoft.icon" href="http://www.nationalarchives.gov.uk/favicon.ico">
